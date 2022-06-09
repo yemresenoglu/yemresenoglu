@@ -17,6 +17,7 @@ I'm Yunus Emre.
 📫 How to reach me:
 
 Mail: emresenoglu1@gmail.com
+
 Linkedin: https://www.linkedin.com/in/yunusemresenoglu
 
 🌍 I'm currently active within the Patika Community
