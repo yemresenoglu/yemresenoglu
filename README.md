@@ -12,7 +12,7 @@ I'm Yunus Emre.
 
 🤔 I’m looking for help with Java/Spring Boot/Hibernate/Jenkins/Docker
 
-💬 Ask me about  Java/Spring Boot/Hibernate/Microsoft SQL Server
+💬 Ask me about  Java/Spring Boot/Hibernate/Microsoft SQL Server/TSQ
 
 📫 How to reach me:
 
