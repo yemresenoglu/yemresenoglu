@@ -2,9 +2,9 @@ Hi there! 👋
 
 I'm Yunus Emre.
 
-🏢 I'm currently working in Data Analysis and Reporting.
+🏢 I'm currently working in Software Engineer.
 
-⚙️ I use daily Microsoft SQL Server, Microsoft Excel, SSRS.
+⚙️ I use daily Java 8, Spring Framework, SOAP, SmartGit.
 
 👀 I’m interested in Backend Development.
 
